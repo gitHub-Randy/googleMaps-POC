@@ -1,2 +1,4 @@
 # googleMaps-POC
-een POC voor google maps in android
+![Image of Emulator](https://github.com/gitHub-Randy/googleMaps-POC/blob/master/gMaps/Capture.PNG)
+
+## een POC voor google maps in android
